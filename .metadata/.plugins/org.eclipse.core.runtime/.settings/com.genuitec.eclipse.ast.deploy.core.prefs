@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+myeclipseTomcatServer.FlowerPot.IEARProjectName=
+myeclipseTomcatServer.FlowerPot.altContextRoot=
+myeclipseTomcatServer.FlowerPot.contextRoot=/FlowerPot
+myeclipseTomcatServer.FlowerPot.deployIsOverProject=false
+myeclipseTomcatServer.FlowerPot.deploymentPath=D\:\\Code\\MyEclipse_Code\\.metadata\\.me_tcat\\webapps\\FlowerPot
+myeclipseTomcatServer.FlowerPot.isDeployed=true
+myeclipseTomcatServer.FlowerPot.isExploded=true
+myeclipseTomcatServer.FlowerPot.isUptoDate=true
+myeclipseTomcatServer.FlowerPot.noFileCopy=false
+myeclipseTomcatServer.FlowerPot.shouldBackup=false
+myeclipseTomcatServer.FlowerPot.shouldOverwrite=false
+myeclipseTomcatServer.FlowerPot.type=WebDeployment
